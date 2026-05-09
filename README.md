@@ -8,7 +8,7 @@ A powerful AI assistant designed to help developers build better software faster
 
 ## 🚀 Live Demo
 
-**Deployment Link (Vercel):** [Insert your new Vercel link here]
+**Deployment Link (Vercel):** https://devmentorr.vercel.app/
 
 **GitHub Link:** https://github.com/septilex/DevMentor-AI
 ---
