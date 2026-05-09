@@ -8,10 +8,9 @@ A powerful AI assistant designed to help developers build better software faster
 
 ## 🚀 Live Demo
 
-**Deployment Link (Vercel):** https://dev-mentor-pi.vercel.app/
+**Deployment Link (Vercel):** [Insert your new Vercel link here]
 
-
-**GitHub Link - https://github.com/prxjitbxl/DevMentor
+**GitHub Link:** https://github.com/septilex/DevMentor-AI
 ---
 
 ## 👥 Team Details
@@ -48,8 +47,8 @@ A powerful AI assistant designed to help developers build better software faster
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/prxjitbxl/DevMentor.git
-   cd DevMentor
+   git clone https://github.com/septilex/DevMentor-AI.git
+   cd DevMentor-AI
    ```
 
 2. **Install Dependencies (Root)**
