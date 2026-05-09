@@ -1,0 +1,8 @@
+{
+  "name": "devmentor",
+  "version": "1.0.0",
+  "description": "DevMentor AI Platform",
+  "scripts": {
+    "vercel-build": "npm install --prefix server && npm install --prefix client && npm run build --prefix client"
+  }
+}
